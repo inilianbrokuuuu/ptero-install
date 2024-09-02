@@ -25,18 +25,18 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]             AUTO INSTALLER PTERODACTYL          [+]${NC}"
-  echo -e "${BLUE}[+]                  © BY WANNFYY                   [+]${NC}"
+  echo -e "${BLUE}[+]                  © BY LIAN HOSTING                   [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] ===============================================  [+]${NC}"
   echo -e ""
   echo -e "script ini di buat untuk mempermudah penginstalasian pterodactyle,"
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
-  echo -e "JANGAN LUPA SUBSCRIBE @WANNOFFC"
-  echo -e ""
-  echo -e "TQ TO :"
+  echo -e "By Node Ku LianHosting"
+  echo -e "Youtube : LianBotz⚡"
+  echo -e "Whatsapp : 0895365285252
   echo -e "ALL CREATOR WHATSAPP"
-  echo -e "WANNOFFICIAL ( MY SELF )"
+  echo -e "LIANBOTZ ( MY PUBLIC )"
   sleep 4
   clear
 }
@@ -75,7 +75,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "iniwannbroku" ]; then
+  if [ "$USER_TOKEN" = "anisasayang" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN} Silahkan Tanyakan Kepada WannOFFICIAL Jika Token Salah.${NC}"
