@@ -346,7 +346,7 @@ while true; do
   echo -e "SELECT OPTION :"
   echo "1. Configure Wings"
   echo "2. Create Node"
-  echo "3. Create Node"
+  echo "3. Install Thema"
   echo "4. Uninstall Panel"
   echo "x. Exit"
   echo -e "Masukkan pilihan (3/4/5):"
