@@ -34,7 +34,7 @@ display_welcome() {
   echo -e ""
   echo -e "By Node Ku LianHosting"
   echo -e "Youtube : LianBotz⚡"
-  echo -e "Whatsapp : 0895365285252
+  echo -e "Whatsapp : 0895365285151"
   echo -e "ALL CREATOR WHATSAPP"
   echo -e "LIANBOTZ ( MY PUBLIC )"
   sleep 4
