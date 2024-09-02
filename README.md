@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/inilianbrokuuuu/ptero-install/m
 | Ubuntu           | 20.04   | :white_check_mark: |
 |                  | 22.04   | :white_check_mark: |
 | Debian           | 10      | :white_check_mark: |
-|                  | 11      | :white_check_mark: |
+|  Centos                | 11      | :white_check_mark: |
 |                  | 12      | :white_check_mark: |
 
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
