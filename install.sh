@@ -75,10 +75,10 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "anisasayang" ]; then
+  if [ "$USER_TOKEN" = "zahrasayang" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN} Silahkan Tanyakan Kepada WannOFFICIAL Jika Token Salah.${NC}"
+    echo -e "${GREEN} Silahkan Tanyakan Kepada LianBotz⚡ Jika Token Salah.${NC}"
     exit 1
   fi
   clear
